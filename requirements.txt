@@ -1,0 +1,4 @@
+arxiv==1.4.2
+pandas==1.5.0
+PyYAML==6.0
+rich==13.1.0

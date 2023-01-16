@@ -1,0 +1,21 @@
+---
+  Categories:
+  # Using ArXiv category names - more details in
+  # https://arxiv.org/category_taxonom
+    - physics.atom-ph
+    - physics.plasm-ph
+    - nucl-th
+    - hep-th
+    - astro-ph.HE
+  Keywords: 
+  # Using ArXiv Query Syntax - more details in 
+  # https://arxiv.org/help/api/user-manual#_query_interface:~:text=5.%20Appendices-,5.1.%20Details%20of%20Query%20Construction,-As%20outlined%20in
+    - kilonova AND atomic
+    - kilonova AND lanthanide
+    - kilonova AND actinide
+    - kilonova AND r-process
+    - lanthanide AND r-process
+    - actinide AND r-process
+    - lanthanide AND opacity
+    - actinide AND opacity 
+    - atomic AND opacity
